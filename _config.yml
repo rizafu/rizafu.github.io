@@ -1,5 +1,5 @@
 url: https://riza.github.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: Riza Fu
@@ -9,7 +9,7 @@ description: "this is all about of my potension"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
-  secondary: fec503  
+  secondary: fec503
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -60,10 +60,10 @@ social:
   - title: instagram
     url: http://instagram.com/rizafu
   - title: youtube
-    url: https://www.youtube.com/user/r324fu
+    url: https://www.youtube.com/c/RizaFu
   - title: stack-overflow
     url: http://stackoverflow.com/users/4180902/riza-fu
-  - title: bitbucket 
+  - title: bitbucket
     url: https://bitbucket.org/rizafu
   - title: github
     url: https://github.com/rizafu
